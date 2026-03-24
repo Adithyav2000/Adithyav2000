@@ -1,49 +1,40 @@
-<div align="center">
+## Hey, I'm Adithya 👋
 
-# Adithya Vibakar
-
-**ML / Software Engineer**
-
-Building intelligent systems at the intersection of machine learning and full-stack development.
-
-[![GitHub](https://img.shields.io/badge/GitHub-Adithyav2000-181717?style=flat&logo=github)](https://github.com/Adithyav2000)
-
-</div>
+**ML / Software Engineer** — I build end-to-end ML systems and full-stack applications. Interested in NLP, explainable AI, and shipping models into production.
 
 ---
 
-### About
-
-I'm an ML and software engineer who enjoys working across the entire stack — from training models and building data pipelines to shipping polished web applications. I'm drawn to problems where applied ML meets real-world product, and I care about building things that are both technically sound and genuinely useful.
-
----
-
-### Featured Projects
-
-| Project | Description | Tech |
-|---------|------------|------|
-| [**news-reframer**](https://github.com/Adithyav2000/news-reframer) | Reframes news articles to reveal perspective and bias | TypeScript, Python |
-| [**Tweet-Virality-Classification**](https://github.com/Adithyav2000/Tweet-Virality-Classification-Explainability) | Predicts tweet virality with explainable ML models | Python, Jupyter |
-| [**pulsecontext**](https://github.com/Adithyav2000/pulsecontext) | Contextual intelligence and analysis tool | Jupyter Notebook |
-| [**Compliance-workbench**](https://github.com/Adithyav2000/Compliance-workbench) | Compliance monitoring and management platform | Python |
-| [**Stock-Portfolio-Management**](https://github.com/Adithyav2000/Stock-Portfolio-Management-System) | MVC-based portfolio management system | Java, Swing |
-| [**hand-written-digit-recogniser**](https://github.com/Adithyav2000/hand-written-digit-recoginiser-using-CNN) | CNN-based handwritten digit classification | Python, Deep Learning |
-
----
-
-### Tech Stack
+### 🔧 What I Work With
 
 ```
-Languages        Python · TypeScript · Java · JavaScript · HTML/CSS
-ML / AI          PyTorch · TensorFlow · scikit-learn · CNNs · NLP
-Frontend         React · Next.js · HTML · CSS
-Backend          Node.js · Flask · Express · Azure Functions
-Tools            Git · Docker · Jupyter · VS Code
+Python · TypeScript · Java · JavaScript
+PyTorch · TensorFlow · scikit-learn
+React · Node.js · Flask · Azure Functions
+Docker · Git · Jupyter
 ```
 
 ---
 
-### GitHub Stats
+### 📌 Selected Projects
+
+**[📰 news-reframer](https://github.com/Adithyav2000/news-reframer)** · TypeScript, Python
+> Full-stack app that reframes news articles to surface hidden bias and perspective. Includes a separate [backend service](https://github.com/Adithyav2000/news-reframer-backend) for NLP processing.
+
+**[📊 Tweet Virality Classification](https://github.com/Adithyav2000/Tweet-Virality-Classification-Explainability)** · Python, scikit-learn, SHAP
+> Predicts whether a tweet will go viral using ML classifiers with full explainability analysis (SHAP values, feature importance).
+
+**[🧠 pulsecontext](https://github.com/Adithyav2000/pulsecontext)** · Python, Jupyter
+> Contextual intelligence tool for extracting and analyzing structured insights from unstructured data.
+
+**[✅ Compliance Workbench](https://github.com/Adithyav2000/Compliance-workbench)** · Python
+> Automated compliance monitoring and management platform for regulatory workflows.
+
+**[🔢 Handwritten Digit Recognition](https://github.com/Adithyav2000/hand-written-digit-recoginiser-using-CNN)** · Python, TensorFlow, CNN
+> Convolutional neural network achieving high accuracy on MNIST digit classification. Built from scratch to understand deep learning fundamentals.
+
+---
+
+### 📈 GitHub Stats
 
 <div align="center">
 
@@ -55,8 +46,4 @@ Tools            Git · Docker · Jupyter · VS Code
 
 ---
 
-<div align="center">
-
-*Open to collaborating on ML, NLP, and full-stack projects.*
-
-</div>
+*Always looking to collaborate on ML and NLP projects. Reach out anytime.*
