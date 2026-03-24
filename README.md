@@ -15,7 +15,7 @@ Docker · Git · Jupyter
 
 ---
 
-### 📌 Selected Projects
+### 📌 Projects
 
 **[📰 news-reframer](https://github.com/Adithyav2000/news-reframer)** · TypeScript, Python
 > Full-stack app that reframes news articles to surface hidden bias and perspective. Includes a separate [backend service](https://github.com/Adithyav2000/news-reframer-backend) for NLP processing.
