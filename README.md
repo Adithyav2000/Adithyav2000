@@ -17,20 +17,11 @@ Docker · Git · Jupyter
 
 ### 📌 Projects
 
-**[📰 news-reframer](https://github.com/Adithyav2000/news-reframer)** · TypeScript, Python
-> Full-stack app that reframes news articles to surface hidden bias and perspective. Includes a separate [backend service](https://github.com/Adithyav2000/news-reframer-backend) for NLP processing.
+ for NLP processing.
 
 **[📊 Tweet Virality Classification](https://github.com/Adithyav2000/Tweet-Virality-Classification-Explainability)** · Python, scikit-learn, SHAP
 > Predicts whether a tweet will go viral using ML classifiers with full explainability analysis (SHAP values, feature importance).
 
-**[🧠 pulsecontext](https://github.com/Adithyav2000/pulsecontext)** · Python, Jupyter
-> Contextual intelligence tool for extracting and analyzing structured insights from unstructured data.
-
-**[✅ Compliance Workbench](https://github.com/Adithyav2000/Compliance-workbench)** · Python
-> Automated compliance monitoring and management platform for regulatory workflows.
-
-**[🔢 Handwritten Digit Recognition](https://github.com/Adithyav2000/hand-written-digit-recoginiser-using-CNN)** · Python, TensorFlow, CNN
-> Convolutional neural network achieving high accuracy on MNIST digit classification. Built from scratch to understand deep learning fundamentals.
 
 ---
 
