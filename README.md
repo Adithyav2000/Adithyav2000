@@ -1,4 +1,5 @@
 ## Hey, I'm Adithya 👋
+![Profile Views](https://komarev.com/ghpvc/?username=Adithyav2000&color=blue&style=flat)
 
 **AI / Software Engineer** — I build LLM-powered applications, RAG pipelines, and scalable backend systems. Focused on shipping AI into production — fast, reliable, and explainable.
 
