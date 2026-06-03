@@ -58,15 +58,4 @@ Databases   :  MongoDB · MySQL
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adithyav2000&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adithyav2000&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=8b949e)
-
-</div>
-
----
-
 *Open to AI Engineer roles. Always up for collaborating on LLM, RAG, or NLP projects — reach out anytime.*
